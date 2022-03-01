@@ -1,0 +1,7 @@
+# Build folders
+node_modules
+dist
+
+# Files
+.sass-cache
+package-lock.json
